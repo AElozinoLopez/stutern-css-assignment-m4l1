@@ -7,6 +7,10 @@
     
 }
 
+body {
+    background-color: beige;
+}
+
 /* Stylng the menu buttons begins here */
 #menu ul {
     list-style-type: none;
