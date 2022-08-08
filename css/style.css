@@ -1,0 +1,19 @@
+
+/* Applying CSS reset */
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+}
+
+/* Stylng the menu buttons begins here */
+#menu ul {
+    list-style-type: none;
+    display: inline-flex;
+}
+
+#menu ul li {
+    padding: 10px 10px;
+}
+/* Styling the menu buttons ends here */
