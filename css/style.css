@@ -15,5 +15,10 @@
 
 #menu ul li {
     padding: 10px 10px;
+    
+}
+
+#menu ul li a {
+    text-decoration: none;
 }
 /* Styling the menu buttons ends here */
