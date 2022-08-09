@@ -12,7 +12,7 @@ body {
 }
 
 /* Stylng the menu buttons begins here */
-#menu ul {
+#menu ul li {
     list-style-type: none;
     display: inline-flex;
 }
@@ -26,3 +26,4 @@ body {
     text-decoration: none;
 }
 /* Styling the menu buttons ends here */
+
